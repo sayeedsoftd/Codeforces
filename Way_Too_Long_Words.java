@@ -53,7 +53,6 @@ p43s
 
 
 package MyJavaProject.Codeforces;
-;
 import java.util.Scanner;
 
 public class Way_Too_Long_Words {
